@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "categoria": "Guitarra",
+      "nombre": "Fender Stratocaster",
+      "marca": "Fender",
+      "precio": 1200,
+      "descripcion": "Una de las guitarras más icónicas con un sonido versátil.",
+      "stock": 5,
+    "images":["https://imgs.search.brave.com/YJCoIBxt7tup-qFh00GcMeBrIg1X-RteQZR646uY5u0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHVm/Zi5mZW5kZXJnYXJh/Z2UuY29tL2ltYWdl/cy9iL2YvTC9TdHJh/dF9UaWxlX0hQU192/MkAyeC5qcGc", "https://imgs.search.brave.com/NGYViBLKxAdM5eExWJ8i_YgKBGuK-RUlXN1empPyU3c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/NTI4NDMtTUxBNzU3/MTI3NTI1MjdfMDQy/MDI0LU8ud2VicA", "https://imgs.search.brave.com/UWs5iCbKPrcP83y4SJhbN2HGBBAF38DCJfp_dOsE0R4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTUz/OTg1NDkxL3Bob3Rv/L2xvbmRvbi11bml0/ZWQta2luZ2RvbS1h/LTE5NjEtZmVuZGVy/LXN0cmF0b2Nhc3Rl/ci1lbGVjdHJpYy1n/dWl0YXItdm94LWFj/MzAtYW1wbGlmaWVy/LWFuZC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9a3JQNGFV/UjlhMFJiYTl6NEJ4/RmcwYXpGMUVMWWk5/U3FhMDUyOXVNZkFV/ST0"]
+    },
+    {
+      "id": 2,
+      "categoria": "Guitarra",
+      "nombre": "Gibson Les Paul Standard",
+      "marca": "Gibson",
+      "precio": 2500,
+      "descripcion": "Guitarra de cuerpo sólido con un tono cálido y sustain increíble.",
+      "stock": 3
+    },
+    {
+      "id": 3,
+      "categoria": "Guitarra",
+      "nombre": "Ibanez RG550",
+      "marca": "Ibanez",
+      "precio": 900,
+      "descripcion": "Guitarra perfecta para estilos de rock y metal, con mástil rápido.",
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "categoria": "Pedal",
+      "nombre": "Boss DS-1 Distortion",
+      "marca": "Boss",
+      "precio": 60,
+      "descripcion": "Pedal de distorsión clásico para un sonido de rock potente.",
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "categoria": "Pedal",
+      "nombre": "Electro-Harmonix Big Muff Pi",
+      "marca": "Electro-Harmonix",
+      "precio": 100,
+      "descripcion": "Pedal de fuzz con un sonido rico y saturado.",
+      "stock": 7
+    },
+    {
+      "id": 6,
+      "categoria": "Pedal",
+      "nombre": "MXR Carbon Copy Analog Delay",
+      "marca": "MXR",
+      "precio": 150,
+      "descripcion": "Pedal de delay analógico para un eco cálido y natural.",
+      "stock": 6
+    },
+    {
+      "id": 7,
+      "categoria": "Amplificador",
+      "nombre": "Marshall JCM800",
+      "marca": "Marshall",
+      "precio": 1500,
+      "descripcion": "Amplificador a válvulas icónico con un tono clásico de rock.",
+      "stock": 2
+    },
+    {
+      "id": 8,
+      "categoria": "Amplificador",
+      "nombre": "Fender Twin Reverb",
+      "marca": "Fender",
+      "precio": 1200,
+      "descripcion": "Amplificador de 100 watts con un sonido limpio y brillante.",
+      "stock": 3
+    },
+    {
+      "id": 9,
+      "categoria": "Amplificador",
+      "nombre": "Orange Micro Terror",
+      "marca": "Orange",
+      "precio": 150,
+      "descripcion": "Amplificador compacto con un sonido potente y gran versatilidad.",
+      "stock": 8
+    },
+    {
+      "id": 10,
+      "categoria": "Amplificador",
+      "nombre": "Vox AC30",
+      "marca": "Vox",
+      "precio": 1300,
+      "descripcion": "Amplificador clásico con un sonido cálido y característico.",
+      "stock": 4
+    }
+  ]
+  
