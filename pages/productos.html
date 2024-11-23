@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../styles/productos.css">
+    <link rel="stylesheet" href="../styles/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="productos" id="productos">
+        <div>
+        <select name="" id="options" onchange="verOptions()">
+                <option value="" class="opt">
+                    Producto
+                  </option>
+                <option value="Amplificador" class="opt">
+                Amplificadores
+                 </option>
+              <option value="Guitarra" class="opt">
+                Guitarras
+                </option>
+              <option value="Pedal" class="opt">
+                Pedales
+                </option>
+        </select>
+        </div>
+     
+    </div>
+    <div class="container">
+        <div class="card">
+           
+            <div class="container" id="containerImages">
+
+                <img id="img" src="" alt="" class="img">
+                <div>
+                    <button id="btnPrev">prev</button>
+                    <button id="btnNext">next</button>
+                </div>
+            </div>
+            <p id="desc"></p>
+            <p id="precio"></p>
+        </div>
+    </div>
+    <script src="../scripts/fetchData.js" type="module"></script>
+    <script>
+         const verOptions = ()=> {
+    const options = document.getElementById('options') ; 
+    const valor = options.value ; 
+    const productoSeleccionado = localStorage.setItem('value' , valor)
+  }
+    </script>
+</body>
+</html>

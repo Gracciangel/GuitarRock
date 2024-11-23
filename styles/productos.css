@@ -1,0 +1,12 @@
+#containerImages{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+#containerImages #img{
+    width: 90% ;
+    height: 500px;
+}
