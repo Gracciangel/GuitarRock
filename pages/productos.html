@@ -5,51 +5,89 @@
     <link rel="stylesheet" href="../styles/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Productos</title>
 </head>
 
 <body>
+    <video id="video" src="../assets/video.mp4" autoplay muted loop></video>
     <div class="productos" id="productos">
         <div>
-        <select name="" id="options" onchange="verOptions()">
-                <option value="" class="opt">
-                    Producto
-                  </option>
-                <option value="Amplificador" class="opt">
-                Amplificadores
-                 </option>
-              <option value="Guitarra" class="opt">
-                Guitarras
-                </option>
-              <option value="Pedal" class="opt">
-                Pedales
-                </option>
-        </select>
+            <a href="../pages/index.html">
+                <img src="../assets/home.png" alt="Home" class="home">
+            </a>
+            <select id="options" onchange="verOptions()">
+                <option value="" class="opt">Productos</option>
+                <option value="Amplificador" class="opt">Amplificadores</option>
+                <option value="Guitarra" class="opt">Guitarras</option>
+                <option value="Pedal" class="opt">Pedales</option>
+            </select>
+            <div id="banner"></div>
         </div>
-     
     </div>
     <div class="container">
         <div class="card">
-           
             <div class="container" id="containerImages">
-
-                <img id="img" src="" alt="" class="img">
-                <div>
-                    <button id="btnPrev">prev</button>
-                    <button id="btnNext">next</button>
-                </div>
+                <h2 id="tituloProducto">Selecciona una opción</h2>
+                <div id="prods"></div>
             </div>
-            <p id="desc"></p>
-            <p id="precio"></p>
         </div>
     </div>
     <script src="../scripts/fetchData.js" type="module"></script>
     <script>
-         const verOptions = ()=> {
-    const options = document.getElementById('options') ; 
-    const valor = options.value ; 
-    const productoSeleccionado = localStorage.setItem('value' , valor)
-  }
+        // Función para filtrar productos según categoría seleccionada
+        const verOptions = async () => {
+            const options = document.getElementById('options');
+            const valor = options.value;
+            const productos = await FetchData();
+            const filtrados = productos.filter(p => p.categoria === valor);
+            handleInfo(filtrados, valor);
+        };
+
+        // Función asincrónica para traer los productos
+        const FetchData = async () => {
+            try {
+                const res = await fetch('../data/data.json');
+                if (!res.ok) throw new Error('Error al cargar los datos');
+                return await res.json();
+            } catch (error) {
+                console.error(error);
+                return [];
+            }
+        };
+
+        // Función para actualizar la información en el DOM
+        const handleInfo = (array, cat) => {
+            const infoProductos = document.getElementById("tituloProducto");
+            const productosInsert = document.getElementById('prods');
+            const containerBan = document.getElementById('banner');
+
+            // Limpia y renderiza los productos filtrados
+            productosInsert.innerHTML = '';
+            array.forEach(producto => {
+                const productoHTML = `
+                    <div class="containerProd">
+                        <h4>${producto.nombre}</h4>
+                        <div class="descripcion">
+                            <img src="${producto.images[0]}" alt="${producto.nombre}">
+                            <h3 class="descripcion">${producto.descripcion}</h3>
+                        </div>
+                        <div class="containerSP">
+                            <p class="stock">Stock: ${producto.stock}</p>
+                            <p class="marca">Marca: ${producto.marca}</p>
+                            <p class="precio">Precio: $${producto.precio}</p>
+                        </div>
+                        <button class="comprar" id='comprarProd'>
+                          Comprar
+                        </button>    
+                    </div>
+                `;
+                productosInsert.innerHTML += productoHTML;
+                const btnComprar = document.getElementById('comprarProd').addEventListener('click', ()=> {
+                   localStorage.setItem('producto', JSON.stringify(produc))
+                    location.href ='../pages/pagos.html'
+                })
+            });
+        };
     </script>
 </body>
 </html>

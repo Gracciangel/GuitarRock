@@ -35,16 +35,19 @@ export const FetchData = async () => {
 
   // Función para mostrar imágenes 
   const ver = (prodName) => {
+    const category = localStorage.getItem('value') ; 
     const producto = productos.find((p) => p.nombre === prodName); 
+    
     if (producto) {
       if (producto.images && producto.images.length > 0) {
         let currentIndex = 0;
         img.src = producto.images[currentIndex];
-  
+        
         // Manejo de navegación (prev y next)
         btnPrev.onclick = () => {
           currentIndex = (currentIndex - 1 + producto.images.length) % producto.images.length;
           img.src = producto.images[currentIndex];
+          console.log('boton prev')
         };
   
         btnNext.onclick = () => {
@@ -56,15 +59,15 @@ export const FetchData = async () => {
       }
     }
   };
+  currentIndex = (currentIndex - 1 + producto.images.length) % producto.images.length;
+  img.src = producto.images[currentIndex];
+ function prev () {
+    console.log('boton prev')
+  };
 
+  function next () {
+    currentIndex = (currentIndex + 1) % producto.images.length;
+    img.src = producto.images[currentIndex];
+  };
   //optciones 
-  export function obtenerSeleccion() {
-    const valor = localStorage.getItem('productoSeleccionado');
-    console.log('Producto seleccionado:', valor);
-    return valor;
-}
 
-// Llamar a esta función para obtener el valor almacenado en cualquier momento
-document.addEventListener('DOMContentLoaded', function() {
-    obtenerSeleccion(); // Aquí puedes hacer lo que necesites con el valor obtenido
-});

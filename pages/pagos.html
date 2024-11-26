@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/productos.css">
+    <title>Document</title>
+</head>
+<body id="pagosBody">
+    <h1 class="pagarTerm">Termina tu compra</h1>
+        <div id="productoContainer"></div>    
+    <form action="" class="form" id="form">
+        
+        <input type="text" placeholder="Nombre">
+        <input type="text" placeholder="apellido">
+        <input type="email" placeholder="Email">
+        <input type="number" placeholder="Dni">
+        <div class="tarjeta">
+            <input type="number" placeholder="numero de tarjeta" id="ntarj" maxlength="16" pattern=".{0,10}">
+            <input type="number" placeholder="codigo de seguridad" id="codSeg" maxlength="4">
+        </div>
+        <button id="pago">Pagar</button>
+        <button class="cancelar">
+            <a href="../pages/productos.html">Cancelar</a>
+        </button>
+    </form>
+    <script src="../scripts/pagos.js"></script>
+</body>
+</html>

@@ -1,15 +1,30 @@
 body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding: 0;
     margin:0 ;
     width: 100vw;
     height: 100vh;
     background-color: rgb(32, 31, 31);
+    /* overflow: hidden; */
+    
+}
+#body #video{
+    width: 100vw;
+    height: 100vh;
+    z-index: -2;
+    position:absolute ;
 }
 .inicioBtn{
     padding: 1rem 30px;
-    border-radius: 15px;
-    background-color: #654F85;
+    border-radius: 5px;
+    border: 1px solid red;
+    background-color: #000000;
     transition: .2s;
+}
+.inicioBtn a{
+    text-decoration: none;
 }
 .inicioBtn:hover{
     color: rgb(205, 207, 86);
@@ -37,21 +52,17 @@ body{
     justify-content: center;
 }
 .rockHome .guitarRock{
-    position: absolute;
+
     color: antiquewhite;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    backdrop-filter: blur(1.5px);
-}
-.rock{
-    font-size: 60px;
-    animation: rock 1s linear infinite;
-    z-index: -2;
 
 }
+
 footer{
     display: flex;
     flex-direction: column;
     width: 100%;
+    align-items: center;
     justify-content: center;
     position: absolute;
     bottom: 2px;
@@ -75,7 +86,7 @@ footer .redes img{
 
 footer div p{
     color: white;
-    font-size: 20px;
+    font-size: 13px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 

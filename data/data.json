@@ -17,7 +17,7 @@
       "precio": 2500,
       "descripcion": "Guitarra de cuerpo sólido con un tono cálido y sustain increíble.",
       "stock": 3,
-      "images":["https://imgs.search.brave.com/pn4ljGs-ys2vLOnsNrpqFyyHlwkAzRXetk2hA3xZAho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tdXNp/Y2ZhY3RvcnkucHQv/YXNzZXRzL2ltYWdl/cy94aW1hZ2UtcHJv/ZHVjdC10ZXN0Lmpw/Zy5wYWdlc3BlZWQu/aWMuSWpSaWhRWm1J/Xy5qcGc", "https://imgs.search.brave.com/F2FNLe8pvFJn9Op1fxv8fUuE7GXmdFG7hD3whAE4SHU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wZXBp/c211c2ljLm14L2Nk/bi9zaG9wL2ZpbGVz/L0xQUzVQOTAwVE9O/SDFfZnJvbnRfamtq/bS1wdV80NTJ4MTAw/MC5qcGc_dj0xNzA4/ODA4OTQx", "https://imgs.search.brave.com/76N9lUVVYNp0wwf8oYt6SvJ4J5BtScMbO3kW1uwNOi4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zb3Vu/ZHNtYXJrZXQuY29t/L2Jsb2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMTIvR2li/c29uLUxlcy1QYXVs/LVN0dWRpby1naWJz/b24tMzAweDE2OC5q/cGc"]
+      "images":["https://imgs.search.brave.com/pn4ljGs-ys2vLOnsNrpqFyyHlwkAzRXetk2hA3xZAho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tdXNp/Y2ZhY3RvcnkucHQv/YXNzZXRzL2ltYWdl/cy94aW1hZ2UtcHJv/ZHVjdC10ZXN0Lmpw/Zy5wYWdlc3BlZWQu/aWMuSWpSaWhRWm1J/Xy5qcGc"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "precio": 900,
       "descripcion": "Guitarra perfecta para estilos de rock y metal, con mástil rápido.",
       "stock": 4,
-      "images":["https://imgs.search.brave.com/aHqiL6SrAhEBcAjOPqP399fZnp8pKOHndSBzXSDAfCs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFncmR5eDhOdUwu/anBn", "https://imgs.search.brave.com/tZFgAsSepUQgyLJyBjH42oug6lbGPpLcnAgb5z5wXw0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE2N09NRFhsTkwu/anBn", "https://imgs.search.brave.com/X1Sx-xDF_4ko9ISYe39Ok-pHGeFlaz85yRqz2ImrQO0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZjEu/enpvdW5kcy5jb20v/bWVkaWEvcHJvZHVj/dG1lZGlhL2ZpdCwy/MDE4YnkzMjAwL3F1/YWxpdHksODUvNV9C/b2R5X1N0cmFpZ2h0/X0JhY2tfTkEtMmY5/MWNhYzNhYzQ1YjE2/MDZkMThmNDhkZGI5/OGE3ZDIuanBn"]
+      "images":["https://imgs.search.brave.com/aHqiL6SrAhEBcAjOPqP399fZnp8pKOHndSBzXSDAfCs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzFncmR5eDhOdUwu/anBn"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "precio": 60,
       "descripcion": "Pedal de distorsión clásico para un sonido de rock potente.",
       "stock": 10,
-      "images":["https://imgs.search.brave.com/Uh72UTM_u1dd9dx8_SVAp_L2IWR8kHSO0Z5l2BJKdZM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yMi5n/ZWFyNG11c2ljLmNv/bS9tZWRpYS8yOS8y/OTM0NTcvNjAwL3By/ZXZpZXcuanBn", "https://imgs.search.brave.com/I0gPspdeaZv4VL7iNUYgwB3-j7KPFfqgUSGBegBhoYU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnMtbXVzaWMu/ZnIvbWVkaWFzL2Jv/c3MvZHMxLWRpc3Rv/cnRpb24taGQtMy01/MDMwMy5qcGc"]
+      "images":["https://imgs.search.brave.com/Uh72UTM_u1dd9dx8_SVAp_L2IWR8kHSO0Z5l2BJKdZM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yMi5n/ZWFyNG11c2ljLmNv/bS9tZWRpYS8yOS8y/OTM0NTcvNjAwL3By/ZXZpZXcuanBn"]
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "precio": 100,
       "descripcion": "Pedal de fuzz con un sonido rico y saturado.",
       "stock": 7,
-      "images":["https://imgs.search.brave.com/DaQkEvGqudI4zzV0Y7alpnYQmQaEmL4_Q7JrS6nFgQc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzE4/ODJkYmFkLTQyNmUt/NGM5ZC1iZDUzLTM0/MDI4NWFlMzBhZC5f/X0NSMSwwLDIzOTcs/MzAwMF9QVDBfU1gz/NjJfVjFfX18uanBn", "https://imgs.search.brave.com/hzflDRa1B4HWODbvlZu_sitJfNEFrgzBYumjjQMtDdA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxRU5mY255YUtT/LmpwZw", "https://imgs.search.brave.com/t1d4W0Cc4k3TcGqPBCYCXYlErrGxZGZ3WWVO2s7JrRA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hLnN0/b3J5Ymxvay5jb20v/Zi80OTU2OC8yMDAw/eDIwMDAvNDNjOGE3/NjcwZi90cHNfMTI4/MV8yMTkxOTFfbm92/ZW1iZXI4ODk4NF8y/MTkxOTFfY3JvcC5q/cGcvbS8xNjAweDAv/ZmlsdGVyczpxdWFs/aXR5KDkwKQ"]
+      "images":["https://imgs.search.brave.com/DaQkEvGqudI4zzV0Y7alpnYQmQaEmL4_Q7JrS6nFgQc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEt/bGlicmFyeS1zZXJ2/aWNlLW1lZGlhLzE4/ODJkYmFkLTQyNmUt/NGM5ZC1iZDUzLTM0/MDI4NWFlMzBhZC5f/X0NSMSwwLDIzOTcs/MzAwMF9QVDBfU1gz/NjJfVjFfX18uanBn"]
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "precio": 150,
       "descripcion": "Pedal de delay analógico para un eco cálido y natural.",
       "stock": 6,
-      "images":["https://imgs.search.brave.com/42p2mllXkWOee0j2Dv2OwxojzhSKcYmAaQsOSzThY3I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzkxbU9kQ3d0TFZM/LmpwZw" , "https://imgs.search.brave.com/ZunfTeRvm1w-fLfoMmPC1PjgCmjk_Y-1TPWLt0i3lzk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFVZWM3d0tRWEwu/anBn", "https://imgs.search.brave.com/PYoaTehC2t8aLn3VD_IbQ-qjKzMgJ_QIha9yYcq4HRE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGF3c29ucy5jby51/ay9jZG4vc2hvcC9m/aWxlcy9KMDItTTE2/OV8xNTQzNDYwMDMx/MDQwLmpwZz92PTE2/ODk1ODk2NDYmd2lk/dGg9MjA0OA"]
+      "images":["https://imgs.search.brave.com/42p2mllXkWOee0j2Dv2OwxojzhSKcYmAaQsOSzThY3I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzkxbU9kQ3d0TFZM/LmpwZw" ]
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "precio": 1500,
       "descripcion": "Amplificador a válvulas icónico con un tono clásico de rock.",
       "stock": 2,
-      "images":["https://imgs.search.brave.com/kdBohYbAsv5zPx6ZTLi5dB1qGz8dOEiomX3TA01tK8o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnZp/bnRhZ2VndWl0YXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9N/QVJTSEFMTF9KQ004/MDBfMjIwM18wMi5q/cGc_cmVzaXplPTUw/MCw3MDQ", "https://imgs.search.brave.com/576mK5Tp0sodRC_zOhig2Wz-h5fJf3LqWBs6BD5nOLY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF84/MTkxMzQtTUxBNDM3/MDM1NzA3NTRfMTAy/MDIwLU8ud2VicA"]
+      "images":["https://imgs.search.brave.com/kdBohYbAsv5zPx6ZTLi5dB1qGz8dOEiomX3TA01tK8o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnZp/bnRhZ2VndWl0YXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9N/QVJTSEFMTF9KQ004/MDBfMjIwM18wMi5q/cGc_cmVzaXplPTUw/MCw3MDQ"]
     },
     {
       "id": 8,
@@ -77,7 +77,7 @@
       "precio": 1200,
       "descripcion": "Amplificador de 100 watts con un sonido limpio y brillante.",
       "stock": 3,
-      "images":["https://imgs.search.brave.com/wwrkEYA5Re6pXxQ99jPLcNtPaRwx-KuDu8FcorqJsj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFqeFdsOU5tOEwu/anBn", "https://imgs.search.brave.com/OAtBn0EuQEofBYGDW5pfKsrvJJoDN4BqhVlehdKgiwk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ydmIt/aW1nLnJldmVyYi5j/b20vaW1hZ2UvdXBs/b2FkL3MtLWZBZWZh/S2NpLS0vdF9jYXJk/LXNxdWFyZS92MTY1/NDcwNjE0Ni9kbjZ4/dmp3aGxiZjV3Ymlt/dWEzeS5qcGc", "https://imgs.search.brave.com/d5jDFQqNogzDIs8HHND1QTV3FPepo1L_ybf0IV9Hv-8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ndWl0/YXIuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE5LzExL0Zl/bmRlci1Ud2luUmV2/ZXJiLTA2QDE0MDB4/MTA1MC5qcGc"]
+      "images":["https://imgs.search.brave.com/wwrkEYA5Re6pXxQ99jPLcNtPaRwx-KuDu8FcorqJsj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFqeFdsOU5tOEwu/anBn"]
     },
     {
       "id": 9,
@@ -87,7 +87,7 @@
       "precio": 150,
       "descripcion": "Amplificador compacto con un sonido potente y gran versatilidad.",
       "stock": 8,
-      "images":["https://imgs.search.brave.com/ckrFb2v719MYzRKGTgtO744epvg7UzJDT69iL9Rgu4M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/NjE3NDMtTUxBNDUy/MjcyMTI3MzBfMDMy/MDIxLU8ud2VicA", "https://imgs.search.brave.com/JEkZ9rLo9ucKpYe1lJ52wGzIIcaaPDDvPPGk5hmU59s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzgxRmVQdlZaU0FM/LmpwZw"]
+      "images":["https://imgs.search.brave.com/ckrFb2v719MYzRKGTgtO744epvg7UzJDT69iL9Rgu4M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF82/NjE3NDMtTUxBNDUy/MjcyMTI3MzBfMDMy/MDIxLU8ud2VicA"]
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@
       "precio": 1300,
       "descripcion": "Amplificador clásico con un sonido cálido y característico.",
       "stock": 4,
-      "images":["https://imgs.search.brave.com/02g-uEw9F3M0T5BdwI6jQ-tS_UUdhqc5x26VmdEAFKQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEv/bWcvZDU3ODBjNTIt/MTBjMS00YzUyLTgz/MzgtNWM1NDk5NzRi/YmZjLl9TTDMwMF9f/LmpwZw", "https://imgs.search.brave.com/uoIJGHF-jlzty3edWRvJmYWkFk6Tbnajs5EcQuaCYuU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzkxYTZVNjdDRUNM/LmpwZw"]
+      "images":["https://imgs.search.brave.com/02g-uEw9F3M0T5BdwI6jQ-tS_UUdhqc5x26VmdEAFKQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/YXBsdXMtbWVkaWEv/bWcvZDU3ODBjNTIt/MTBjMS00YzUyLTgz/MzgtNWM1NDk5NzRi/YmZjLl9TTDMwMF9f/LmpwZw"]
     }
   ]
   
